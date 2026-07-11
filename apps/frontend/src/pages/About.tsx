@@ -85,7 +85,7 @@ function About() {
                             </div>
                             <div>
                                 <h2 className="text-2xl font-bold text-primary">
-                                    The Hanover Insurance Group
+                                    An Insurance Company
                                 </h2>
                                 <p className="text-sm text-muted-foreground mt-1">
                                     For their partnership and this incredible opportunity.
