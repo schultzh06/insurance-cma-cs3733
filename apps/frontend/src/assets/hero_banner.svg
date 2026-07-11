@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600"
+     preserveAspectRatio="xMidYMid slice" role="img" aria-label="Abstract navy hero background">
+  <defs>
+    <!-- Base navy field, subtle diagonal depth -->
+    <linearGradient id="base" x1="0" y1="0" x2="1600" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b2039"/>
+      <stop offset="0.55" stop-color="#122f4d"/>
+      <stop offset="1" stop-color="#1b3a5c"/>
+    </linearGradient>
+    <!-- Warm focal glow, upper right -->
+    <radialGradient id="glow" cx="1300" cy="120" r="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d4943c" stop-opacity="0.30"/>
+      <stop offset="0.45" stop-color="#d4943c" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#d4943c" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Edge vignette for foreground text legibility -->
+    <radialGradient id="vignette" cx="800" cy="300" r="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.22"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="600" fill="url(#base)"/>
+
+  <!-- Signature: coverage rings radiating from the warm focal point -->
+  <g fill="none" stroke-width="1.5">
+    <circle cx="1300" cy="120" r="200" stroke="#254a6e" stroke-opacity="0.55"/>
+    <circle cx="1300" cy="120" r="330" stroke="#254a6e" stroke-opacity="0.42"/>
+    <circle cx="1300" cy="120" r="470" stroke="#d4943c" stroke-opacity="0.30"/>
+    <circle cx="1300" cy="120" r="620" stroke="#254a6e" stroke-opacity="0.26"/>
+    <circle cx="1300" cy="120" r="780" stroke="#254a6e" stroke-opacity="0.16"/>
+    <circle cx="1300" cy="120" r="950" stroke="#d4943c" stroke-opacity="0.10"/>
+  </g>
+
+  <rect width="1600" height="600" fill="url(#glow)"/>
+  <rect width="1600" height="600" fill="url(#vignette)"/>
+</svg>

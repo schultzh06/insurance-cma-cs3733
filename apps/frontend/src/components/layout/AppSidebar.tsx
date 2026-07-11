@@ -62,7 +62,7 @@ function AppSidebar() {
             <SidebarHeader className="p-4">
                 <div className="flex flex-row items-center justify-between">
                     <div>
-                        <h1 className="text-lg font-semibold tracking-tight">Hanover CMA</h1>
+                        <h1 className="text-lg font-semibold tracking-tight">Insurance CMA</h1>
                         <p className="text-sm text-muted-foreground">{ts('sidebar.team')}</p>
                     </div>
                     <Button onClick={ () => toggleSidebar()} className="cursor-pointer bg-transparent hover:bg-transparent hover:opcacity-80 transition-opacity">

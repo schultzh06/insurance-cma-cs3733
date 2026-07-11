@@ -36,7 +36,7 @@ export type TranslationKey =
     | 'sidebar.team'
     | 'sidebar.servicereqs'
 
-    | 'footer.hanoverContentManager'
+    | 'footer.ContentManager'
     | 'footer.rightsReserved'
     | 'footer.notice'
     | 'footer.WPI'

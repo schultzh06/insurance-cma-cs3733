@@ -22,7 +22,7 @@ function Home() {
         <>
             <Hero
                 icon={HomeIcon}
-                title={ts('home.header')}
+                title={"Insurance Company - Content Management Application"}
                 description={ts('home.subheader')}
             />
 
@@ -51,7 +51,7 @@ function Home() {
             {/* Welcome section */}
             <div id="content" className="scroll-mt-20 max-w-6xl mx-auto px-6 mt-12">
                 <div className="text-center mb-10">
-                    <h1 className="text-4xl font-bold text-primary">{ts('home.mainHeader')}</h1>
+                    <h1 className="text-4xl font-bold text-primary">{"Welcome to Insure Bank."}</h1>
                     <p className="text-lg text-muted-foreground mt-2 max-w-xl mx-auto">The quiet infrastructure behind a better team.</p>
                 </div>
 
@@ -113,7 +113,7 @@ function Home() {
                                 </div>
                                 <h3 className="text-base font-semibold text-primary">Disclaimer</h3>
                             </div>
-                            <p className="text-muted-foreground leading-relaxed text-sm">{ts('home.disclaimer')}</p>
+                            <p className="text-muted-foreground leading-relaxed text-sm">{"Disclaimer: This website has been created for WPI’s CS 3733 Software Engineering as a class project and is not in use by insurance companies."}</p>
                         </CardContent>
                     </Card>
                 </div>

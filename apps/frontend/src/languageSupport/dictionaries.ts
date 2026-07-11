@@ -28,9 +28,9 @@ export const en_us: Record<TranslationKey, string> = {
     'nav.menu': 'Menu',
     'nav.logOut': 'Log Out',
 
-    'footer.hanoverContentManager': 'Hanover Content Manager',
+    'footer.ContentManager': 'Insurance Content Manager',
     'footer.rightsReserved': '2026 Team B. All Rights Reserved.',
-    'footer.notice': 'Not an Official Hanover Website',
+    'footer.notice': 'Not an Official  Website',
     'footer.WPI': 'CS3733 at Worcester Polytechnic Institute',
 
     'search.genericDialogue': "Search by name...",
@@ -53,12 +53,12 @@ export const en_us: Record<TranslationKey, string> = {
     'sidebar.team': "Team B - D26",
     'sidebar.servicereqs': "Service Requests",
 
-    'home.header': "Hanover Insurance - Content Management Application",
+    'home.header': " Insurance - Content Management Application",
     'home.subheader': "CS3733 Team B D26",
     'home.meetTheTeam': "Meet Our Team",
     'home.mainHeader': 'Welcome to iBank.',
     'home.subHeader': 'One place to manage your files.',
-    'home.disclaimer': "Disclaimer: This website has been created for WPI’s CS 3733 Software Engineering as a class project and is not in use by Hanover Insurance.",
+    'home.disclaimer': "Disclaimer: This website has been created for WPI’s CS 3733 Software Engineering as a class project and is not in use by insurance companies.",
     'home.appBy': "This application created by Team B, D26.",
     'home.studentProject': "This is a student project",
     'home.notLoggedIn': "Log in to begin",
@@ -104,7 +104,7 @@ export const en_us: Record<TranslationKey, string> = {
 
     'disclaimer.start': 'Disclaimer:',
     'disclaimer.middle': ' This website has been created for WPI’s CS 3733 Software Engineering as a class project and is ',
-    'disclaimer.end': 'not in use by Hanover Insurance.',
+    'disclaimer.end': 'not in use by insurance companies.',
 
     'content.filters': "Filters",
     'content.hide': "Hide",
@@ -181,9 +181,9 @@ export const sp_sp: Partial<Record<TranslationKey, string>> = {
     'nav.login': 'Iniciar sesión',
     'nav.logOut': 'Finalizar la Sesión',
 
-    'footer.hanoverContentManager': 'Gestor de contenidos de Hanover',
+    'footer.ContentManager': 'Gestor de contenidos de ',
     'footer.rightsReserved': '2026 Team B. Todos Los Derechos Reservados.',
-    'footer.notice': 'Este no es un Sitio Web Oficial de Hanover',
+    'footer.notice': 'Este no es un Sitio Web Oficial de ',
     'footer.WPI': 'CS3733 en el Worcester Polytechnic Institute',
 
     'search.genericDialogue': "Busca por nombre...",
@@ -202,12 +202,12 @@ export const sp_sp: Partial<Record<TranslationKey, string>> = {
     'sidebar.viewEmployees': "Ver Empleados",
     'sidebar.manageEmployees': "Gestionar Empleados",
 
-    'home.header': 'Hanover Insurance — Aplicación de gestión de contenidos',
+    'home.header': ' Insurance — Aplicación de gestión de contenidos',
     'home.subheader': 'CS3733 Equipo B D26',
     'home.meetTheTeam': "Conozca a Nuestro Equipo",
     'home.mainHeader': 'Bienvenido a iBank.',
     'home.subHeader': 'Un lugar para gestionar tus archivos.',
-    'home.disclaimer': "Descargo de responsabilidad: Este sitio web ha sido creado para el curso CS 3733 de Ingeniería de Software del WPI como un proyecto de clase y no es utilizado por Hanover Insurance.",
+    'home.disclaimer': "Descargo de responsabilidad: Este sitio web ha sido creado para el curso CS 3733 de Ingeniería de Software del WPI como un proyecto de clase y no es utilizado por  Insurance.",
     'home.appBy': "Esta aplicación fue creada por el Equipo B, D26.",
     'home.studentProject': "Este es un proyecto estudiantil",
     'home.notLoggedIn': "Inicia sesión para comenzar",
@@ -245,7 +245,7 @@ export const sp_sp: Partial<Record<TranslationKey, string>> = {
 
     'disclaimer.start': 'Aviso legal:',
     'disclaimer.middle': ' Este sitio web ha sido creado para el CS 3733 Ingeniería de Software de WPI como proyecto de clase y ',
-    'disclaimer.end': 'no está en uso por Hanover Insurance.',
+    'disclaimer.end': 'no está en uso por  Insurance.',
 
     'dashboard.subtitle': 'Encuentra todas tus herramientas aquí.',
     'dashCard.myFiles': 'Mis Archivos: ',

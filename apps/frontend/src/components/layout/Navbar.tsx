@@ -1,6 +1,6 @@
 import { useSidebar } from "@/components/ui/sidebar.tsx";
 import {Menu, Loader2, Search} from "lucide-react";
-import logo from "../../assets/hanover_logo.svg"
+import logo from "../../assets/insurance_logo.svg"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar.tsx";
 import {
     Popover,

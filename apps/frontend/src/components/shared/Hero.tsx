@@ -1,4 +1,4 @@
-import banner from "@/assets/hanover_banner.webp";
+import banner from "@/assets/hero_banner.svg";
 import { type LucideIcon } from "lucide-react";
 import InfoButton from "@/components/layout/InformationAlert.tsx";
 
@@ -11,7 +11,7 @@ export function Hero(properties: { icon?: LucideIcon | null, title: string, desc
             <div
                 className="absolute inset-0 bg-cover"
                 style={{
-                    backgroundImage: `url(${banner})`,
+                    backgroundImage: `url("${banner}")`,
                     backgroundPosition: "center 25%",
                     backgroundSize: "cover",
                     minWidth: "100vw",

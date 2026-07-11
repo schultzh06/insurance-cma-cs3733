@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="136px" height="42px" viewBox="0 0 136 42" role="img" aria-label="The Insurance Company">
+	<g fill="#231F20" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+		<text x="68" y="9.5" font-size="6" font-weight="600" letter-spacing="4" text-anchor="middle">THE</text>
+		<text x="68" y="28.5" font-size="18.5" font-weight="800" text-anchor="middle" textLength="126" lengthAdjust="spacingAndGlyphs">INSURANCE</text>
+		<text x="68" y="39" font-size="6.5" font-weight="600" letter-spacing="4.6" text-anchor="middle">COMPANY</text>
+	</g>
+</svg>

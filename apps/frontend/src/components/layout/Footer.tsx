@@ -17,7 +17,7 @@ function Footer() {
             }}>
             <div className="max-w-5xl mx-auto flex flex-col items-center text-center">
                 <h2 className="text-lg font-semibold tracking-tight">
-                    {ts("footer.hanoverContentManager")}
+                    Insurance Content Manager
                 </h2>
                 {/* Divider */}
                 <div className="w-80 h-0.5 bg-primary-foreground/20 rounded-full my-4 mb-5" />
@@ -48,7 +48,7 @@ function Footer() {
                 <div className="flex flex-col md:flex-row items-center gap-2 md:gap-6 text-xs text-primary-foreground/60">
                     <span>&copy; {ts("footer.rightsReserved")}</span>
                     <span className="hidden md:inline">•</span>
-                    <span>{ts("footer.notice")}</span>
+                    <span>This site not in use by insurance companies.</span>
                     <span className="hidden md:inline">•</span>
                     <span>{ts("footer.WPI")}</span>
                 </div>
