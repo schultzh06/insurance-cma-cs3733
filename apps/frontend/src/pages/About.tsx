@@ -99,8 +99,8 @@ function About() {
                                     <Briefcase className="h-5 w-5 text-primary" />
                                 </div>
                                 <div>
-                                    <p className="font-semibold">Brandon Roche</p>
-                                    <p className="text-sm text-muted-foreground">Deputy CIO</p>
+                                    <p className="font-semibold">John Smith</p>
+                                    <p className="text-sm text-muted-foreground">CEO</p>
                                 </div>
                             </div>
 
@@ -109,8 +109,8 @@ function About() {
                                     <Briefcase className="h-5 w-5 text-primary" />
                                 </div>
                                 <div>
-                                    <p className="font-semibold">Meaghan Jenket</p>
-                                    <p className="text-sm text-muted-foreground">Principal Business Architect</p>
+                                    <p className="font-semibold">Jane Doe</p>
+                                    <p className="text-sm text-muted-foreground">Project Lead</p>
                                 </div>
                             </div>
                         </div>
