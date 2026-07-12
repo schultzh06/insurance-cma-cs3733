@@ -21,7 +21,7 @@ User: "${ex.question}"
 Response: ${JSON.stringify(ex.response, null, 2)}`,
     ).join("\n\n");
 
-    return `You are a SQL query generator for a Hanover Insurance content management system.
+    return `You are a SQL query generator for an Insurance Company content management system.
 Your only job is to translate plain-English questions into correct, safe Postgres SELECT queries.
 
 CRITICAL RULES:

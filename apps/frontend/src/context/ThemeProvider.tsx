@@ -14,7 +14,7 @@ const ThemeProviderContext = createContext<ThemeProviderState | undefined>(
 );
 
 // localStorage key for persisting the user's theme preference across sessions
-const STORAGE_KEY = "hanover-cma-theme";
+const STORAGE_KEY = "insurebank-cma-theme";
 
 type ThemeProviderProps = {
     children: React.ReactNode;

@@ -94,7 +94,7 @@ function Navbar() {
                     <hr className="h-8 w-px bg-primary-foreground border-none ml-1" />
 
                     <Link to="/">
-                        <img src={logo} alt="logo" className="shrink-0 h-10 w-auto brightness-0 invert ml-3 mr-2" />
+                        <img src={logo} alt="logo" className="shrink-0 h-12 w-auto brightness-0 invert ml-2 mr-px" />
                     </Link>
 
                     <DisclaimerAlert />

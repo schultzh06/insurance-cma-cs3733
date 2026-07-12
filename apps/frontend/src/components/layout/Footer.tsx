@@ -23,20 +23,20 @@ function Footer() {
                 <div className="w-80 h-0.5 bg-primary-foreground/20 rounded-full my-4 mb-5" />
                 {/* Social Icons */}
                 <div className="flex items-center gap-6 mb-6">
-                    <a href="https://www.facebook.com/hanoverinsurance/" className="group">
+                    <a href="https://www.facebook.com/" className="group">
                         <img
                             src={FacebookIcon}
                             alt="facebook"
                             className="w-5 h-5 opacity-70 group-hover:opacity-100 group-hover:scale-110 transition
                             saturate-0 contrast-500 brightness-60"/>
                     </a>
-                    <a href="https://x.com/The_Hanover" className="group">
+                    <a href="https://x.com/" className="group">
                         <img
                             src={TwitterIcon}
                             alt="twitter"
                             className="w-5 h-5 opacity-70 group-hover:opacity-100 group-hover:scale-110 transition saturate-0"/>
                     </a>
-                    <a href="https://www.instagram.com/the.hanover/" className="group">
+                    <a href="https://www.instagram.com/" className="group">
                         <img
                             src={InstagramIcon}
                             alt="instagram"

@@ -51,7 +51,7 @@ function Home() {
             {/* Welcome section */}
             <div id="content" className="scroll-mt-20 max-w-6xl mx-auto px-6 mt-12">
                 <div className="text-center mb-10">
-                    <h1 className="text-4xl font-bold text-primary">{"Welcome to Insure Bank."}</h1>
+                    <h1 className="text-4xl font-bold text-primary">{"Welcome to InsureBank."}</h1>
                     <p className="text-lg text-muted-foreground mt-2 max-w-xl mx-auto">The quiet infrastructure behind a better team.</p>
                 </div>
 

@@ -10,7 +10,7 @@
  * accurate the generated SQL will be.
  */
 export const SCHEMA_DESCRIPTION = `
-You are querying a Postgres database for a Hanover Insurance content management system.
+You are querying a Postgres database for an Insurance Company content management system.
 All tables are in the "public" schema. Identifiers are case-sensitive — always quote
 mixed-case table and column names with double quotes (e.g., "Employee", "firstName").
 

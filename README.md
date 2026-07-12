@@ -169,7 +169,7 @@ OPENAI_API_KEY=                 # Required for NL-query (POST /api/nl-query)
 ML_SERVICE_URL=                 # Embedding microservice URL (default: http://localhost:3001)
 ```
 
-The Auth0 tenant (`dev-s638hh1d5ry67sv6.us.auth0.com`) and API audience (`https://hanover-cma-api`) are hardcoded in `app.ts` and `helpers/auth0Management.ts`.
+The Auth0 tenant (`dev-s638hh1d5ry67sv6.us.auth0.com`) and API audience are hardcoded in `app.ts` and `helpers/auth0Management.ts`.
 
 ---
 
