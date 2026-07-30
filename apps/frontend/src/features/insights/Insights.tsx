@@ -78,7 +78,7 @@ function InsightsPage() {
                 </div>
 
                 <div className="absolute bottom-4 left-1/2 -translate-x-1/2 w-[90%] max-w-6xl mb-5">
-                        <div className="p-3 bg-card shadow-lg w-full focus-within:outline-none rounded-[12px]">
+                        <div className="p-3 bg-card/65 backdrop-blur-md shadow-lg w-full rounded-xl focus-within:outline-none">
                             <ChatInput onSubmit={handleSubmit} disabled={isLoading} />
                         </div>
 
